@@ -30,5 +30,4 @@ The core of our submission resides in `train_bc_lstm.py`, which contains the mai
 
 Run `train.py` to train the model. Afterwards run `test.py` to run the evaluation used in the AICrowd platform. This code prints out per-episode rewards.
 
-After 200 games, the average episodic reward should be around 10-13. The results very from run-to-run, and we also
-noticed our local evaluations having consistently lower score than on AICrowd platform (achieved +15 results).
+After 200 games, the average episodic reward should be between 15-20 (the variance between results is rather high).
