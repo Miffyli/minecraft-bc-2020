@@ -373,7 +373,7 @@ class HDF5SequenceSampler:
         """
         # Pick random episodes to return
         np.random.shuffle(self.episode_ids)
-        random_episode_indeces = self.episode_ids[:self.batch_size]
+        random_episode_indeces = self.episode_ids[:self.batch_size].copy()
         # Gather tuples (start_ind, end_ind)
         slices = []
         for i in random_episode_indeces:
