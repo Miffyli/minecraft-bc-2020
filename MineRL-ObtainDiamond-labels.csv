@@ -1,0 +1,123 @@
+trajectory,dia,reward,length,spawn,label,note
+v3_absolute_grape_changeling-6_37339-46767,TRUE,1571,9376,hill,perfect,
+v3_absolute_grape_changeling-9_4643-34456,FALSE,547,29638,woods,ok,"skips trees at begining, struggels with lava and digging"
+v3_absolute_grape_changeling-17_418-2303,FALSE,1,1849,next to tree,bad,
+v3_absolute_zucchini_basilisk-14_12791-21691,FALSE,67,8867,flatland,ok,dies in lava
+v3_aggravating_artichoke_harpy-11_186-12079,FALSE,99,11857,next to tree,ok,
+v3_aggravating_artichoke_harpy-11_12179-28686,TRUE,1571,16429,next to tree,good,"skips trees at begining, searched for cave"
+v3_agonizing_kale_tree_nymph-4_580-4067,FALSE,67,3450,next to tree,ok,
+v3_agonizing_kale_tree_nymph-4_4131-16401,TRUE,1571,12224,next to tree,perfect,
+v3_agonizing_kale_tree_nymph-4_41105-57631,FALSE,547,16504,next to tree,good,
+v3_agonizing_kale_tree_nymph-7_74962-82761,TRUE,TRUE,7763,next to tree,perfect,
+v3_agonizing_kale_tree_nymph-7_106750-114380,TRUE,1571,7575,dessert,good,smelting etc next to dia
+v3_agonizing_kale_tree_nymph-7_133235-141843,TRUE,1571,8580,dessert,good,"looting, smelting etc next to dia"
+v3_agonizing_kale_tree_nymph-20_289-7919,TRUE,1571,7566,next to tree,perfect,smelting etc next to dia
+v3_agonizing_kale_tree_nymph-20_7989-16044,TRUE,1571,7973,next to tree,perfect,struggels with lava
+v3_agonizing_kale_tree_nymph-20_16180-39256,TRUE,1571,23034,woods,perfect,
+v3_agonizing_kale_tree_nymph-20_39345-43897,FALSE,35,4514,flatland,bad,
+v3_agonizing_kale_tree_nymph-20_43999-57348,FALSE,99,13314,dessert,ok,first 3600 frames just walking straight to get out of the dessert
+v3_agonizing_kale_tree_nymph-20_58203-59745,FALSE,1,1512,next to tree,bad,
+v3_alarming_arugula_medusa-12_962-31988,FALSE,547,30998,next to tree,ok,misses dia multiple times because no iron pickaxe (after digging for 20000 frames)
+v3_alarming_arugula_medusa-12_32515-56508,TRUE,1571,23958,next to tree,good,
+v3_alarming_arugula_medusa-25_287-18941,TRUE,1571,18627,woods,good,"searches for good place to start digging, crafts everything from 131 on next to dia"
+v3_all_orange_djinn-4_193-66220,TRUE,1571,68988,next to tree,bad,"WTF, searchs looong time for existing cave, builds 6 melting furnace"
+v3_ample_salad_doppelganger-1_556-12734,TRUE,1571,12141,next to tree,good,
+v3_ample_salad_doppelganger-1_14665-50183,FALSE,547,35479,next to tree,good,perfect until reward 547
+v3_anxious_lemon_lake_spirit-1_368-24956,FALSE,547,24545,cave,good,
+v3_bogus_guava_djinn-2_19159-30071,TRUE,1571,10890,next to tree,good,
+v3_bogus_guava_djinn-17_6593-22816,TRUE,1571,16191,flatland,good,
+v3_bogus_guava_djinn-17_23146-31716,TRUE,1571,8532,flatland,perfect,
+v3_bogus_guava_djinn-17_35972-57260,TRUE,1571,21258,next to tree,good,
+v3_cheery_acorn_squash_spirit-1_37168-47677,FALSE,547,10467,watter,ok,
+v3_colorless_mung_bean_dragon-20_661-13035,TRUE,1571,12345,next to tree,perfect,existing cave
+v3_conscious_tangerine_rain_bird-23_316-12797,FALSE,163,12453,watter,ok,
+v3_conscious_tangerine_rain_bird-23_12946-47287,TRUE,1571,34292,hill,good,"long search for cave, builds ladders"
+v3_conscious_tangerine_rain_bird-23_48769-59333,TRUE,1571,10539,watter,good,
+v3_courageous_rutabaga_nessie-1_3069-13764,TRUE,1571,10655,hill,perfect,
+v3_courageous_rutabaga_nessie-20_140555-154451,TRUE,1571,13869,hill,perfect,
+v3_cute_breadfruit_spirit-1_5117-20930,TRUE,1571,15781,next to tree,good,long idle times
+v3_cute_breadfruit_spirit-1_35476-37415,FALSE,19,1894,next to tree,bad,long idle times
+v3_cute_breadfruit_spirit-1_40823-68203,TRUE,1571,27347,next to tree,good,
+v3_earnest_water_chestnut_gargoyle-6_255-25556,TRUE,1571,25264,next to tree,ok,"hunts animals, furnace + crafting tbl placed outside and went back to craft"
+v3_equal_olive_chimera-7_10379-19453,TRUE,1571,9038,next to tree,perfect,
+v3_equal_olive_chimera-7_29496-36896,FALSE,547,7363,next to tree,good,killed by skelleton
+v3_equal_olive_chimera-9_221-12864,FALSE,547,12601,next to tree,good,died in lava
+v3_equal_olive_chimera-9_14563-24740,TRUE,1571,10132,flatland,perfect,
+v3_equal_olive_chimera-9_25021-26077,FALSE,1,979,next to tree,bad,
+v3_excellent_mango_beast-6_20909-29943,TRUE,1571,8996,next to tree,perfect,
+v3_excellent_mango_beast-6_30058-43288,TRUE,1571,13199,flatland,perfect,
+v3_excellent_mango_beast-6_43472-48953,TRUE,1571,5457,next to tree,perfect,
+v3_excellent_mango_beast-6_49144-52389,FALSE,35,3207,hill,ok,
+v3_excellent_mango_beast-11_384-31798,TRUE,1571,31377,flatland,good,very long search for dia
+v3_familiar_endive_ghost-2_9213-38067,TRUE,1571,28815,hill,good,very long idle in cave
+v3_flustered_tuber_doppelganger-1_97912-144591,TRUE,1571,46647,next to tree,good,very long search for dia
+v3_frozen_date_godzilla-7_10759-37132,TRUE,1571,26335,near village,good,raids village
+v3_gleeful_grape_gnome-8_201-10945,TRUE,1571,10716,next to tree,good,crafts verything next to dia
+v3_glistening_okra_golum-9_129195-148178,TRUE,1571,18932,next to tree,good,crafts verything next to dia
+v3_glistening_okra_golum-9_153840-172647,FALSE,547,18778,flatland,good,
+v3_inferior_parsnip_banshee-2_21612-28374,FALSE,163,6709,next to tree,good,
+v3_juicy_jackfruit_griffin-1_1316-43029,TRUE,1571,41681,watter,good,very long search for dia
+v3_juvenile_apple_angel-5_4254-15273,TRUE,1571,10984,flatland,perfect,
+v3_juvenile_apple_angel-6_221-11831,TRUE,1571,11572,next to tree,perfect,bit strange pathing
+v3_juvenile_apple_angel-7_268-28190,FALSE,547,27890,next to tree,perfect,perfect up to iron pick axe
+v3_juvenile_apple_angel-7_48978-62020,FALSE,547,13009,flatland,perfect,perfect up to iron pick axe
+v3_juvenile_apple_angel-7_78901-93820,FALSE,547,14891,watter,perfect,perfect up to iron pick axe
+v3_juvenile_apple_angel-7_117738-131163,TRUE,1571,13332,hill,perfect,
+v3_juvenile_apple_angel-7_158092-167444,TRUE,1571,9299,next to tree,perfect,
+v3_juvenile_apple_angel-7_167478-182832,FALSE,547,15310,next to tree,perfect,perfect up to iron pick axe
+v3_juvenile_apple_angel-7_205561-212353,TRUE,1571,6761,next to tree,perfect,
+v3_juvenile_apple_angel-26_862-2906,FALSE,1,1995,next to tree,bad,
+v3_key_nectarine_spirit-1_1619-3682,FALSE,32,2018,flatland,ok,
+v3_kindly_lemon_mummy-2_785-3011,FALSE,32,2196,hill,ok,killed by zombey
+v3_kindly_lemon_mummy-2_3088-28614,TRUE,1571,25483,watter,good,
+v3_kindly_lemon_mummy-2_35249-54498,FALSE,547,19218,next to tree,good,"died in lava, searched for existing cave"
+v3_kindly_lemon_mummy-11_2752-6180,FALSE,1,3342,watter,bad,
+v3_kindly_lemon_mummy-11_6412-15431,FALSE,131,8968,hill,ok,
+v3_kindly_lemon_mummy-11_17437-48154,TRUE,1571,30624,hill,good,
+v3_last_prune_swamp_monster-2_2208-8442,TRUE,1571,6203,flatland,perfect,
+v3_late_basil_lake_spirit-7_1236-19762,FALSE,67,18499,hill,bad,
+v3_long_term_okra_dwarf-1_130-3077,FALSE,35,2906,next to tree,bad,
+v3_long_term_okra_dwarf-1_3120-16344,FALSE,547,13196,watter,good,
+v3_long_term_okra_dwarf-1_16451-43284,TRUE,1571,26778,next to tree,good,
+v3_long_term_okra_dwarf-1_44519-79136,TRUE,1571,33892,next to tree,good,"perfect up to iron pick axe, verylong search"
+v3_lost_chard_changeling-2_450-15377,TRUE,1571,14897,flatland,perfect,
+v3_masculine_avocado_ogre-4_37863-64346,TRUE,1571,26459,next to tree,good,"perfect up to iron pick axe, verylong search"
+v3_other_pomegranite_orc-12_351-13496,TRUE,1571,13110,hill,perfect,
+v3_other_pomegranite_orc-12_16800-22992,TRUE,1571,6112,next to tree,perfect,
+v3_other_pomegranite_orc-12_24007-29518,TRUE,1571,5458,next to tree,perfect,
+v3_other_pomegranite_orc-12_31579-36826,TRUE,1571,5150,next to tree,perfect,
+v3_quiet_mandarin_orange_ghoul-13_257-145846,FALSE,99,11546,next to tree,bad,
+v3_red_guava_merman-2_23281-60729,FALSE,163,37417,watter,bad,
+v3_remorseful_current_savage-6_594-14990,TRUE,1571,14370,watter,perfect,
+v3_remorseful_current_savage-6_15132-33033,TRUE,1571,17872,watter,perfect,
+v3_right_mushroom_fire-breathing_dragon_7211-17977,TRUE,1571,10737,watter,perfect,
+v3_right_mushroom_fire-breathing_dragon_41653-47509,TRUE,1571,5696,next to tree,perfect,
+v3_right_mushroom_fire-breathing_dragon_47892-72622,FALSE,547,24698,dessert,good,
+v3_right_mushroom_fire-breathing_dragon_88565-95177,TRUE,1571,6581,next to tree,perfect,
+v3_rigid_mustard_greens_monster-25_30123-57401,TRUE,1571,27235,hill,good,
+v3_self_reliant_fig_doppelganger-1_37451-107047,FALSE,99,69526,hill,bad,
+v3_splendid_brussels_sprout_pegasus-5_429-8799,FALSE,67,8275,next to tree,ok,
+v3_splendid_brussels_sprout_pegasus-5_45696-54118,TRUE,1571,8390,flatland,perfect,
+v3_sticky_chick_pea_gnome-18_17559-31315,TRUE,1571,13702,watter,good,
+v3_subtle_iceberg_lettuce_nymph-2_38140-56582,TRUE,1571,18410,flatland,good,
+v3_subtle_iceberg_lettuce_nymph-4_16111-20545,TRUE,1571,4402,watter,perfect,
+v3_subtle_iceberg_lettuce_nymph-4_20999-27579,FALSE,547,6546,next to tree,good,died in lava
+v3_subtle_iceberg_lettuce_nymph-4_32796-57962,FALSE,547,25801,hill,good,
+v3_subtle_iceberg_lettuce_nymph-12_29391-43991,TRUE,1571,14447,next to tree,good,
+v3_svelte_cherry_devil-17_314-11959,TRUE,1571,11617,hill,good,
+v3_tangible_kumquat_giant-11_494-47621,TRUE,1571,47074,next to tree,ok,long search (30k frames)
+v3_ugly_cress_orc-1_23174-49353,TRUE,1571,26128,hill,good,
+v3_unselfish_blood_orange_savage-14_21998-38655,FALSE,163,16614,hill,ok,
+v3_unselfish_blood_orange_savage-15_17061-30979,TRUE,1571,13889,flatland,good,crafts everything next to dia
+v3_unselfish_blood_orange_savage-18_399-10066,TRUE,1571,9620,dessert,good,existing cave
+v3_unselfish_blood_orange_savage-18_14639-19416,TRUE,1571,4742,watter,perfect,
+v3_unselfish_blood_orange_savage-18_19656-23843,TRUE,1571,4135,hill,perfect,
+v3_velvety_sprouts_tree_nymph-5_193-10356,FALSE,99,10129,next to tree,bad,
+v3_velvety_sprouts_tree_nymph-5_10447-17008,FALSE,67,6532,watter,bad,
+v3_villainous_black_eyed_peas_loch_ness_monster-1_26657-34903,FALSE,67,8184,next to tree,bad,
+v3_villainous_black_eyed_peas_loch_ness_monster-1_62828-69969,FALSE,547,7091,hill,good,
+v3_villainous_black_eyed_peas_loch_ness_monster-1_70054-73712,FALSE,67,3611,next to tree,ok,
+v3_villainous_black_eyed_peas_loch_ness_monster-1_82621-93105,TRUE,1571,10453,flatland,good,
+v3_villainous_black_eyed_peas_loch_ness_monster-2_3997-48203,FALSE,163,44175,watter,bad,
+v3_wary_salsa_werewolf-4_196-20369,FALSE,547,20141,watter,good,existing cave
+v3_wary_salsa_werewolf-4_20915-42385,FALSE,163,21437,watter,bad,
