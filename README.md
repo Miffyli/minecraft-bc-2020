@@ -15,6 +15,8 @@ Core ingredients:
 
 We also ran experiments by manually going through the ObtainDiamond dataset and classifying games by their quality.
 We did not use this data in the competition, only to understand better the quality of the data.
+Only including succesfull games from ObtainDiamond we obtained significantly
+higher results (20 and above, vs. 12-20 here.). This filtering is _not_ included in this code.
 
 This data is included in the `MineRL-ObtainDiamond-labels.csv`, and also available on [Google Sheets](https://docs.google.com/spreadsheets/d/1XqI5dIQEvmfSzujHL7aom1GTEJbwDK9zuRT7_HbPAfQ).
 
@@ -31,4 +33,4 @@ The core of our submission resides in `train_bc_lstm.py`, which contains the mai
 
 Run `train.py` to train the model. Afterwards run `test.py` to run the evaluation used in the AICrowd platform. This code prints out per-episode rewards.
 
-After 200 games, the average episodic reward should be between 15-20 (the variance between results is rather high).
+After 200 games, the average episodic reward should be between 12-20 (the variance between results is rather high).
