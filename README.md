@@ -10,7 +10,6 @@ Core ingredients:
   - Continuous action vectors are mapped to the closest centroids, and all learning is done on these discrete actions.
 - Behavioural cloning (i.e. train network to predict what actions human takes).
 - Network model: Small ResNet with LSTM layers (see [IMPALA's network](https://arxiv.org/abs/1802.01561) for a similar architecture)
-- Filtering the data based on the performance improves performance, even if it reduces number of samples.
 
 ## Manual data cleaning for ObtainDiamond dataset
 
