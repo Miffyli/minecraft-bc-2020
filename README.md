@@ -2,6 +2,8 @@
 This repository contains the final ranked, imitation-learning only of NoActionWasted team to [MineRL 2020 challenge](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition),
 reaching fourth place.
 
+Team members: [Anssi Kanervisto](https://github.com/Miffyli), [Christian Scheller](https://github.com/metataro/) and [Yanick Schraner](https://github.com/YanickSchraner).
+
 Core ingredients:
 - Written in PyTorch.
 - In the competition actions were obfuscated into continuous vectors. We used k-means clustering on human dataset to create representative actions, which works quite well (thanks to [organizers for suggesting this method](https://minerl.io/docs/tutorials/k-means.html)).
