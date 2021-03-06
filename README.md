@@ -18,7 +18,7 @@ We did not use this data in the competition, only to understand better the quali
 Only including succesfull games from ObtainDiamond we obtained significantly
 higher results (20 and above, vs. 12-20 here.). This filtering is _not_ included in this code.
 
-This data is included in the `MineRL-ObtainDiamond-labels.csv`, and also available on [Google Sheets](https://docs.google.com/spreadsheets/d/1XqI5dIQEvmfSzujHL7aom1GTEJbwDK9zuRT7_HbPAfQ).
+This data is included in the `MineRL-ObtainDiamond-labels.csv`, and also available on [Google Sheets](https://docs.google.com/spreadsheets/d/1XqI5dIQEvmfSzujHL7aom1GTEJbwDK9zuRT7_HbPAfQ). Direct all your thanks to Yanick who spent many hours in front of 64x64 Minecraft game play videos!
 
 ## Code contents
 
